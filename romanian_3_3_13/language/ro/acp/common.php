@@ -109,6 +109,8 @@ $lang = array_merge($lang, array(
 	'ACP_GROUPS_PERMISSIONS'		=> 'Permisiuni grupuri',
 	'ACP_GROUPS_POSITION'			=> 'Administrare poziție grupuri',
 
+	'ACP_HELP_PHPBB'			=> 'Susține phpBB',
+
 	'ACP_ICONS'					=> 'Iconiţe subiect',
 	'ACP_ICONS_SMILIES'			=> 'Iconiţe/zâmbete subiect',
 	'ACP_INACTIVE_USERS'		=> 'Utilizatori inactivi',

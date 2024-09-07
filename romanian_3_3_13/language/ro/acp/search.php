@@ -118,9 +118,13 @@ $lang = array_merge($lang, array(
 		2	=> 'Rata actuală de indexare este de aproximativ %1$.1f mesaje pe secundă.',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT'			=> array(
-		2	=> 'Toate mesajele până la mesajul %2$d sunt în curs de ștergere din index-ul de căutare.',
+		2	=> 'Toate mesajele până la mesajul %2$d sunt în curs de ștergere din index-ul de căutare, din care %1$d mesaje în această etapă.',
+	),
+	'SEARCH_INDEX_DELETE_REDIRECT_RATE'		=> array(
+		2	=> 'Rata curentă de ștergere este de aproximativ %1$.1f mesaje pe secundă.',
 	),
     'SEARCH_INDEX_CREATED'                   => 'Toate mesajele au fost indexate cu succes în baza de date a forumului.',
+	'SEARCH_INDEX_PROGRESS'                  => 'Finalizat: %1$d | În așteptare: %2$d | Total: %3$d',
     'SEARCH_INDEX_REMOVED'                   => 'Indexul de căutare a fost şters cu succes.',
     'SEARCH_INTERVAL'                        => 'Intervalul de flood al utilizatorilor pentru căutare',
     'SEARCH_INTERVAL_EXPLAIN'                => 'Numărul de secunde pe care utilizatorii trebuie să-l aştepte între căutări. Intervalul este independent pentru fiecare utilizator.',

@@ -93,7 +93,6 @@ $lang = array_merge($lang, array(
     'FIELD_DESCRIPTION'         => 'Descriere câmp',
     'FIELD_DESCRIPTION_EXPLAIN' => 'Explicaţia acestui câmp prezentată utilizatorului',
     'FIELD_DROPDOWN'            => 'Căsuţă dropdown',
-    'FIELD_GOOGLEPLUS'			=> 'Google+',
 	'FIELD_IDENT'               => 'Identificare câmp',
     'FIELD_IDENT_ALREADY_EXIST' => 'Numele câmpului ales există deja. Alege alt nume.',
     'FIELD_IDENT_EXPLAIN'       => 'Identificarea câmpului este un nume pentru a identifica câmpul de profil în baza de date şi şabloane.',

@@ -43,6 +43,7 @@ $lang = array_merge($lang, array(
 
 	'BACKUP_DELETE'				=> 'Fişierul de backup a fost şters cu succes.',
 	'BACKUP_INVALID'			=> 'Fişierul selectat pentru backup nu este valid.',
+	'BACKUP_NOT_SUPPORTED'		=> 'Fișierul copie de siguranță nu este suportat',
 	'BACKUP_OPTIONS'			=> 'Opţiuni de salvare (Backup)',
 	'BACKUP_SUCCESS'			=> 'Fişierul copie de siguranță a fost creat cu succes.',
 	'BACKUP_TYPE'				=> 'Tip de backup',
