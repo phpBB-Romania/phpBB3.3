@@ -1,4 +1,4 @@
-Subject: Raport mesaj privat - "{TOPIC_TITLE}"
+Subject: Raport mesaj privat - "{SUBJECT}"
 
 Salut {USERNAME},
 
